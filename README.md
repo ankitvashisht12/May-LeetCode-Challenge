@@ -100,3 +100,23 @@ You could assume no leading zero bit in the integer’s binary representation.
 ```
 
 *[Solution](https://github.com/ankitvashisht12/May-LeetCode-Challenge/blob/master/Day-04.cpp)*
+
+
+**Day 05. [First Unique Character in a String](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3320/)**
+
+Description : 
+
+```
+Given a string, find the first non-repeating character in it and return it's index. If it doesn't exist, return -1.
+
+Examples:
+
+s = "leetcode"
+return 0.
+
+s = "loveleetcode",
+return 2.
+Note: You may assume the string contain only lowercase letters.
+```
+
+*[Solution](https://github.com/ankitvashisht12/May-LeetCode-Challenge/blob/master/Day-05.cpp)*
