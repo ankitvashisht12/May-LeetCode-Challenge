@@ -181,3 +181,16 @@ Each node has a unique integer value from 1 to 100.
 ```
 
 *[Solution](https://github.com/ankitvashisht12/May-LeetCode-Challenge/blob/master/Day-07.cpp)*
+
+**Day 08. [Check If It Is a Straight Line](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3323/)**
+
+Description : 
+
+```
+You are given an array coordinates, coordinates[i] = [x, y], where [x, y] represents the coordinate of a point. Check if these points make a straight line in the XY plane.
+
+Input: coordinates = [[1,2],[2,3],[3,4],[4,5],[5,6],[6,7]]
+Output: true
+```
+
+*[Solution](https://github.com/ankitvashisht12/May-LeetCode-Challenge/blob/master/Day-08.cpp)*
