@@ -194,3 +194,25 @@ Output: true
 ```
 
 *[Solution](https://github.com/ankitvashisht12/May-LeetCode-Challenge/blob/master/Day-08.cpp)*
+
+
+**Day 09. [Valid Perfect Square](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3324/)**
+
+Description :
+
+```
+Given a positive integer num, write a function which returns True if num is a perfect square else False.
+
+Note: Do not use any built-in library function such as sqrt.
+
+Example 1:
+
+Input: 16
+Output: true
+Example 2:
+
+Input: 14
+Output: false
+```
+
+*[Solution](https://github.com/ankitvashisht12/May-LeetCode-Challenge/blob/master/Day-09.cpp)*
