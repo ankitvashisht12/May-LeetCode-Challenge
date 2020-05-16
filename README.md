@@ -433,7 +433,7 @@ Note:
 
 *[Solution](https://github.com/ankitvashisht12/May-LeetCode-Challenge/blob/master/Day-15.cpp)*
 
-**Day 16. []()**
+**Day 16. [Odd Even Linked List](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3331/)**
 
 Description :
 
