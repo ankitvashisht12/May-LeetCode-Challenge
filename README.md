@@ -827,3 +827,64 @@ There does not exist i != j for which dislikes[i] == dislikes[j].
 ```
 
 *[Solution](https://github.com/ankitvashisht12/May-LeetCode-Challenge/blob/master/Day-27.cpp)*
+
+**Day 28. [Counting Bits](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3343/)**
+
+Description : 
+
+```
+Given a non negative integer number num. For every numbers i in the range 0 ≤ i ≤ num calculate the number of 1's in their binary representation and return them as an array.
+
+Example 1:
+
+Input: 2
+Output: [0,1,1]
+Example 2:
+
+Input: 5
+Output: [0,1,1,2,1,2]
+Follow up:
+
+It is very easy to come up with a solution with run time O(n*sizeof(integer)). But can you do it in linear time O(n) /possibly in a single pass?
+Space complexity should be O(n).
+Can you do it like a boss? Do it without using any builtin function like __builtin_popcount in c++ or in any other language.
+```
+
+*[Solution](https://github.com/ankitvashisht12/May-LeetCode-Challenge/blob/master/Day-28.cpp)*
+
+**Day 29. [Course Schedule](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/538/week-5-may-29th-may-31st/3344/)**
+
+Description : 
+
+```
+here are a total of numCourses courses you have to take, labeled from 0 to numCourses-1.
+
+Some courses may have prerequisites, for example to take course 0 you have to first take course 1, which is expressed as a pair: [0,1]
+
+Given the total number of courses and a list of prerequisite pairs, is it possible for you to finish all courses?
+
+ 
+
+Example 1:
+
+Input: numCourses = 2, prerequisites = [[1,0]]
+Output: true
+Explanation: There are a total of 2 courses to take. 
+             To take course 1 you should have finished course 0. So it is possible.
+Example 2:
+
+Input: numCourses = 2, prerequisites = [[1,0],[0,1]]
+Output: false
+Explanation: There are a total of 2 courses to take. 
+             To take course 1 you should have finished course 0, and to take course 0 you should
+             also have finished course 1. So it is impossible.
+ 
+
+Constraints:
+
+The input prerequisites is a graph represented by a list of edges, not adjacency matrices. Read more about how a graph is represented.
+You may assume that there are no duplicate edges in the input prerequisites.
+1 <= numCourses <= 10^5
+```
+
+*[Solution](https://github.com/ankitvashisht12/May-LeetCode-Challenge/blob/master/Day-29.cpp)*
